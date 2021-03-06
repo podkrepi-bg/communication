@@ -2,7 +2,7 @@
 
 {% api-method method="get" host="https://api.podkrepi.bg" path="/v1/campaign/:id" %}
 {% api-method-summary %}
-Get Cakes
+Get Campaign
 {% endapi-method-summary %}
 
 {% api-method-description %}
@@ -13,23 +13,19 @@ This endpoint allows you to get free cakes.
 {% api-method-request %}
 {% api-method-path-parameters %}
 {% api-method-parameter name="id" type="string" %}
-ID of the cake to get, for free of course.
+ID of the campaign
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 
 {% api-method-headers %}
 {% api-method-parameter name="Authentication" type="string" required=true %}
-Authentication token to track down who is emptying our stocks.
+Authentication token
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
 
 {% api-method-query-parameters %}
-{% api-method-parameter name="recipe" type="string" %}
-The API will do its best to find a cake matching the provided recipe.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="gluten" type="boolean" %}
-Whether the cake should be gluten-free or not.
+{% api-method-parameter name="fields" type="string" %}
+Define fields of the response
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}
 {% endapi-method-request %}
@@ -37,11 +33,11 @@ Whether the cake should be gluten-free or not.
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-Cake successfully retrieved.
+Campaign successfully retrieved.
 {% endapi-method-response-example-description %}
 
 ```
-{    "name": "Cake's name",    "recipe": "Cake's recipe name",    "cake": "Binary cake"}
+{"name": "Campaign name"}
 ```
 {% endapi-method-response-example %}
 
@@ -51,7 +47,7 @@ Could not find a cake matching this query.
 {% endapi-method-response-example-description %}
 
 ```
-{    "message": "Ain't no cake like that."}
+{"error": "Not Found"}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
