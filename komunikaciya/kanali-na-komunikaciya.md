@@ -1,9 +1,7 @@
 # Канали на комуникация
 
-* [Discord](https://discord.com/invite/nZAeCb9YzP)
-  * [Как да използваме Discord](https://docs.google.com/document/d/1KwcCltuI8gpH5eu1OKjCEqn6Xwggw0MWt5ptR36Sn2c/edit)
 * [Github](https://github.com/daritelska-platforma)
-  * [Архитектура](https://github.com/daritelska-platforma/architecture)
+* * [Архитектура](https://github.com/daritelska-platforma/architecture)
     * [Frontend](https://github.com/daritelska-platforma/frontend)
       * [Contributor guidelines](https://github.com/daritelska-platforma/frontend/blob/master/CONTRIBUTING.md#contributing)
   * [Комуникация](https://github.com/daritelska-platforma/communication)
@@ -23,10 +21,12 @@
   * [Комуникация](https://drive.google.com/drive/u/1/folders/1iu5I80YIxCf6j48qTfdYq0R39c-JcYon)
     * [Организация и комуникация](https://docs.google.com/document/d/1xF5zgdjJyGR80rtcIDHbLuqNLXb_xcRmokE8IjNSaR0/edit)
     * [Основни дефиниции](https://docs.google.com/document/d/1SFmKvB-FGAEuRUYV6bvqQP9eskJYOkjy7_oVPm4fvYM/edit)
-    * [Структуриране на тиймове](https://docs.google.com/document/d/1ckY9a-cyLssRXuVI_Ja2W2_CEe27rDQpEot9SDpV1tk/edit)
+    * [Структуриране на екипи](https://docs.google.com/document/d/1ckY9a-cyLssRXuVI_Ja2W2_CEe27rDQpEot9SDpV1tk/edit)
   * [Дизайн](https://drive.google.com/drive/u/1/folders/1JA5rbdHkp2x8VuZN6jlIzKRHPnncGGYh)
   * [Право](https://drive.google.com/drive/u/1/folders/12NB3RfKI4bnN87lMJYoZ3VM0gYwkaQnW)
   * [Медици и НПО](https://drive.google.com/drive/u/1/folders/1kd2RVB5iIIH3EB2BUIVexvgBaIbXaKIs)
   * [Маркетинг](https://drive.google.com/drive/u/1/folders/1T_HhmYXA0et_tlM66ipLPcoPhKLZKJiN)
     * [SEO](https://drive.google.com/drive/u/1/folders/1EQSje24mtADAGR6ADfc7C_JP2XwiQWPW)
+
+
 
