@@ -20,7 +20,9 @@
 
 ## Отдели
 
-* [Технически](otdeli/tekhnicheski.md)
+* [Технически](otdeli/tekhnicheski/README.md)
+  * [Фронтенд](otdeli/tekhnicheski/frontend.md)
+  * [Бекенд](otdeli/tekhnicheski/bekend.md)
 * [Дизайн](otdeli/dizain.md)
 * [Маркетинг](otdeli/marketing.md)
 * [Медици и НПО](otdeli/medici-i-npo.md)
