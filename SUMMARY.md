@@ -8,7 +8,7 @@
 
 * [Канали на комуникация](komunikaciya/kanali-na-komunikaciya.md)
 * [Седмични срещи](komunikaciya/sedmichni-sreshi.md)
-* [Взимане на решения](komunikaciya/vzimane-na-resheniya.md)
+* [Вземане на решения](komunikaciya/vzimane-na-resheniya.md)
 * [Вземане на задача](komunikaciya/vzemane-na-zadacha.md)
 * [Въпроси](komunikaciya/vprosi.md)
 
