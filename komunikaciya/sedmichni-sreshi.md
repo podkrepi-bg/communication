@@ -16,11 +16,7 @@
 Срещите се случват всеки петък _**без изключение**_.  
 Всеки, който иска да присъства и да си каже мнението, е добре дошъл!
 
-{% page-ref page="vprosi.md" %}
-
-
-
-
+[Включи се тук](https://docs.podkrepi.bg/general/komunikaciya/vprosi#kak-da-se-vklyucha-v-organizaciyata)
 
 ## Среща информационен сайт
 
