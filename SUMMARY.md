@@ -2,6 +2,7 @@
 
 * [Начало](README.md)
 * [Манифесто](manifesto.md)
+* [Полезни връзки](polezni-resursi.md)
 
 ## Комуникация
 
@@ -17,7 +18,13 @@
 * [Инструменти](arkhitektura/instrumenti.md)
 * [API](arkhitektura/api.md)
 
----
+## Отдели
 
-* [Полезни ресурси](polezni-resursi.md)
+* [Технически](otdeli/tekhnicheski.md)
+* [Дизайн](otdeli/dizain.md)
+* [Маркетинг](otdeli/marketing.md)
+* [Медици и НПО](otdeli/medici-i-npo.md)
+* [Продуктов мениджмънт](otdeli/produktov-menidzhmnt.md)
+* [Право](otdeli/pravo.md)
+* [Финанси и счетоводство](otdeli/finansi-i-schetovodstvo.md)
 

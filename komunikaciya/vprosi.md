@@ -10,7 +10,25 @@
 
 ## Как да се включа в организацията?
 
-Започни тук
+Започни с включване към основните канали за комуникация:
+
+* Включване в **Discord**: [https://discord.com/invite/nZAeCb9YzP](https://discord.com/invite/nZAeCb9YzP)
+* Включване в **GitHub** организацията: [https://github.com/daritelska-platforma](https://github.com/daritelska-platforma)
+* Включване в **Google Drive**: [Тук](https://drive.google.com/drive/u/1/folders/1ROUU7ZKWP64mksDVQXpd6rYOmyUJK0b5)
+
+## Как да използвам Git
+
+Подробно описание на употребата на Git може да намерите в [този документ](https://docs.google.com/document/d/1jFU93jGxoaZ1QLsFIAl-FQF6t8OICGcneExcfPavkIA/edit).
+
+## Как да използвам Discord
+
+Дискорд е една от големите чат платформи с около 30 милиона потребители. В него се намират редица големи общности.  Дискорд е наличен като уеб, десктоп и мобилно приложение. Най-удобно е десктоп приложението, което може да изтеглите [от тук](https://discord.com/download).
+
+Интерфейсът на Дискорд не е прост, но за сметка на това предоставя много възможности. За да свикнете с него просто му отделете малко повече време и не се отказвайте. 
+
+Подробно описание на дискорд може да намерите в [този документ](https://docs.google.com/document/d/1KwcCltuI8gpH5eu1OKjCEqn6Xwggw0MWt5ptR36Sn2c/edit).  
+  
+****
 
 
 
