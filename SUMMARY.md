@@ -23,10 +23,10 @@
 * [Технически](otdeli/tekhnicheski/README.md)
   * [Фронтенд](otdeli/tekhnicheski/frontend.md)
   * [Бекенд](otdeli/tekhnicheski/bekend.md)
+* [Право](otdeli/pravo.md)
 * [Дизайн](otdeli/dizain.md)
 * [Маркетинг](otdeli/marketing.md)
 * [Медици и НПО](otdeli/medici-i-npo.md)
 * [Продуктов мениджмънт](otdeli/produktov-menidzhmnt.md)
-* [Право](otdeli/pravo.md)
 * [Финанси и счетоводство](otdeli/finansi-i-schetovodstvo.md)
 
