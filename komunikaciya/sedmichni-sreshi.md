@@ -18,16 +18,6 @@
 
 [Включи се тук](https://docs.podkrepi.bg/general/komunikaciya/vprosi#kak-da-se-vklyucha-v-organizaciyata)
 
-{% tabs %}
-{% tab title="First Tab" %}
-waddawwda
-{% endtab %}
-
-{% tab title="Second Tab" %}
-awddwawda
-{% endtab %}
-{% endtabs %}
-
 ## Среща информационен сайт
 
 ## Среща дизайн екип
