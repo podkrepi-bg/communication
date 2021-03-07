@@ -7,6 +7,7 @@
 * [ ] Включване в Discord
 * [ ] Включване в GitHub организацията
 * [ ] Включване към Google Drive
+* [ ] Включване в мениджмънт платформа [Ora.pm](https://ora.pm/invite/d86c02d1bf8347dab238dfc6a68c830b)
 
 ### Как да се включа в GitHub
 
@@ -19,6 +20,10 @@
 ### Как да получа достъп до **Google Drive**
 
 За достъп до файловете в Google Drive е необходимо да сте член на Discord сървъра и да поискате достъп до споделената папка. Линк към папката можете да намерите [тук](https://drive.google.com/drive/u/1/folders/1ROUU7ZKWP64mksDVQXpd6rYOmyUJK0b5).
+
+### Как да се включа в Ora.pm
+
+Линк за достъп до организацията Ora.pm [https://ora.pm/invite/d86c02d1bf8347dab238dfc6a68c830b](https://ora.pm/invite/d86c02d1bf8347dab238dfc6a68c830b)
 
 ## Какво значи да съм "lead" на нещо?
 
