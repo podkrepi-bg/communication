@@ -1,11 +1,10 @@
 # Канали на комуникация
 
 * [Github](https://github.com/daritelska-platforma)
-* * [Архитектура](https://github.com/daritelska-platforma/architecture)
+* * Архитектура
     * [Frontend](https://github.com/daritelska-platforma/frontend)
       * [Contributor guidelines](https://github.com/daritelska-platforma/frontend/blob/master/CONTRIBUTING.md#contributing)
   * [Комуникация](https://github.com/daritelska-platforma/communication)
-    * [Документи](https://github.com/daritelska-platforma/documents)
 * [Google Drive](https://drive.google.com/drive/u/1/folders/1RqIpL7kDopka5NJ_DbU00ta4m4Dccllo)
   * [Архитектура](https://drive.google.com/drive/u/1/folders/1RqIpL7kDopka5NJ_DbU00ta4m4Dccllo)
     * [Frontend](https://drive.google.com/drive/u/1/folders/1nsbGpe73JEpfASbcvcE-DZwUmpABn3SM)
