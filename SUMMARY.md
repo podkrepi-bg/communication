@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Начало](README.md)
-* [Манифесто](manifesto.md)
+* [Манифест](manifesto.md)
 * [Полезни връзки](polezni-resursi.md)
 
 ## Комуникация

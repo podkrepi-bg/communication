@@ -6,7 +6,11 @@ description: >-
 
 # Начало
 
-#### Как работи gitbook:
+#### Как да се включа в организацията?
+
+Можеш да започнеш от [Манифеста](https://docs.podkrepi.bg/general/manifesto) ни и след това стъпките са [тук](https://docs.podkrepi.bg/general/komunikaciya/vprosi#kak-da-se-vkliucha-v-organizaciata).
+
+#### Как работи gitbook?:
 
 За директни промени в текста отвори от тук: [https://app.gitbook.com/@podkrepi-bg/s/general/](https://app.gitbook.com/@podkrepi-bg/s/general/)
 
