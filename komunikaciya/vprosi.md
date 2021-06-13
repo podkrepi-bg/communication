@@ -11,7 +11,7 @@
 
 ### Как да се включа в GitHub
 
-Включване в **GitHub** организацията: [https://github.com/daritelska-platforma](https://github.com/daritelska-platforma)
+Включване в **GitHub** организацията: [https://github.com/podkrepi-bg](https://github.com/podkrepi-bg)
 
 ### Как да се включа в Discord
 
