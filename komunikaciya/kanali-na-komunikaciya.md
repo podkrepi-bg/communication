@@ -1,10 +1,10 @@
 # Канали на комуникация
 
-* [Github](https://github.com/podkrepi-bg)
+* [Github](https://github.com/daritelska-platforma)
 * * Архитектура
-    * [Frontend](https://github.com/podkrepi-bg/frontend)
-      * [Contributor guidelines](https://github.com/podkrepi-bg/frontend/blob/master/CONTRIBUTING.md#contributing)
-  * [Комуникация](https://github.com/podkrepi-bg/communication)
+    * [Frontend](https://github.com/daritelska-platforma/frontend)
+      * [Contributor guidelines](https://github.com/daritelska-platforma/frontend/blob/master/CONTRIBUTING.md#contributing)
+  * [Комуникация](https://github.com/daritelska-platforma/communication)
 * [Google Drive](https://drive.google.com/drive/u/1/folders/1RqIpL7kDopka5NJ_DbU00ta4m4Dccllo)
   * [Архитектура](https://drive.google.com/drive/u/1/folders/1RqIpL7kDopka5NJ_DbU00ta4m4Dccllo)
     * [Frontend](https://drive.google.com/drive/u/1/folders/1nsbGpe73JEpfASbcvcE-DZwUmpABn3SM)
