@@ -2,7 +2,7 @@
 
 * [Github](https://github.com/daritelska-platforma)
 * * Архитектура
-    * [Frontend](https://github.com/daritelska-platforma/frontend)
+    * [Frontend](https://github.com/podkrepi-bg/frontend)
       * [Contributor guidelines](https://github.com/daritelska-platforma/frontend/blob/master/CONTRIBUTING.md#contributing)
   * [Комуникация](https://github.com/daritelska-platforma/communication)
 * [Google Drive](https://drive.google.com/drive/u/1/folders/1RqIpL7kDopka5NJ_DbU00ta4m4Dccllo)
