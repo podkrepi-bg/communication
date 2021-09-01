@@ -7,10 +7,15 @@
 ## Комуникация
 
 * [Канали на комуникация](komunikaciya/kanali-na-komunikaciya.md)
-* [Седмични срещи](komunikaciya/sedmichni-sreshi.md)
 * [Вземане на решения](komunikaciya/vzimane-na-resheniya.md)
 * [Вземане на задача](komunikaciya/vzemane-na-zadacha.md)
 * [Въпроси](komunikaciya/vprosi.md)
+
+## Събития
+
+* [Седмични срещи](sbitiya/sedmichni-sreshi.md)
+* [Хакатон А](sbitiya/khakaton-a.md)
+* [Хакатон Б](sbitiya/khakaton-b.md)
 
 ## Архитектура
 

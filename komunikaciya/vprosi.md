@@ -21,10 +21,6 @@
 
 За достъп до файловете в Google Drive е необходимо да сте член на Discord сървъра и да поискате достъп до споделената папка. Линк към папката можете да намерите [тук](https://drive.google.com/drive/u/1/folders/1ROUU7ZKWP64mksDVQXpd6rYOmyUJK0b5).
 
-### Как да се включа в Ora.pm
-
-Линк за достъп до организацията Ora.pm [https://ora.pm/invite/d86c02d1bf8347dab238dfc6a68c830b](https://ora.pm/invite/d86c02d1bf8347dab238dfc6a68c830b)
-
 ## Как да взема първата си задача?
 
 Взимането на задачи е обяснено във страницата ["Взимане на задача"](https://docs.podkrepi.bg/general/komunikaciya/vzemane-na-zadacha) 
