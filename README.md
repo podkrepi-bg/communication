@@ -18,7 +18,7 @@ description: >-
 
 
 
-{% page-ref page="komunikaciya/kanali-na-komunikaciya.md" %}
+{% page-ref page="komunikaciya/communication-channels.md" %}
 
 {% page-ref page="arkhitektura/architecture.md" %}
 
