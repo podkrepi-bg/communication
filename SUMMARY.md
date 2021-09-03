@@ -30,7 +30,7 @@
   * [Бекенд](otdeli/tech-team/bekend.md)
 * [Право](otdeli/legal-team.md)
 * [Финанси и счетоводство](otdeli/finance-team/README.md)
-  * [Ръководство за финансов контрол](otdeli/finance-team/rkovodstvo-za-finansov-kontrol.md)
+  * [Ръководство за финансов контрол](otdeli/finance-team/rakovodstvo-za-finansov-kontrol.md)
 * [Дизайн](otdeli/design-team.md)
 * [Маркетинг](otdeli/marketing-team.md)
 * [Медици и НПО](otdeli/medic-team.md)
