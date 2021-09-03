@@ -8,10 +8,7 @@ description: Онлайн събитие за развиване на дарит
 
 Петък 18:00 ч. до Събота 18:00 ч.  
   
-**Видео среща**  
-[**https://meet.google.com/sff-tabg-tdh**](https://meet.google.com/sff-tabg-tdh?authuser=1)\*\*\*\*
-
-**Дискорд сървър**  
+**Видео среща - Дискорд сървър**  
 [**https://discord.com/invite/nZAeCb9YzP**](https://discord.com/invite/nZAeCb9YzP)\*\*\*\*
 
 ## Цели на събитието
