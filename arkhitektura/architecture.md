@@ -1,4 +1,6 @@
 # Обща структура
 
-![](../.gitbook/assets/technical-landscape-module-communication.jpg)
+![](../.gitbook/assets/podkrepi_org_structure.png)
+
+![](../.gitbook/assets/technical-landscape-draft-communication.jpg)
 
