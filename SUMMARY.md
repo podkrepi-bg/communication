@@ -4,13 +4,13 @@
 * [Манифест](manifesto.md)
 * [Полезни връзки](useful-links.md)
 
-## Комуникация
+## Комуникация <a id="communication"></a>
 
-* [Канали на комуникация](komunikaciya/communication-channels.md)
-* [Вземане на решения](komunikaciya/decision-making.md)
-* [Вземане на задача](komunikaciya/task-distribution.md)
-* [Въпроси](komunikaciya/faq.md)
-* [Речник](komunikaciya/rechnik.md)
+* [Канали на комуникация](communication/communication-channels.md)
+* [Вземане на решения](communication/decision-making.md)
+* [Вземане на задача](communication/task-distribution.md)
+* [Въпроси](communication/faq.md)
+* [Речник](communication/rechnik.md)
 
 ## Събития <a id="events"></a>
 
