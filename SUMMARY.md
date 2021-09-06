@@ -10,7 +10,7 @@
 * [Вземане на решения](communication/decision-making.md)
 * [Вземане на задача](communication/task-distribution.md)
 * [Въпроси](communication/faq.md)
-* [Речник](communication/rechnik.md)
+* [Речник](communication/glossary.md)
 
 ## Събития <a id="events"></a>
 
