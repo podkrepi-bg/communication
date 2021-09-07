@@ -23,7 +23,7 @@
 * [Обща структура](architecture/architecture.md)
 * [Функционален домейн](architecture/functional-domain.md)
 * [Инструменти](architecture/tools.md)
-* [API](architecture/api.md)
+* [Техническа документация](architecture/api.md)
 
 ## Отдели
 
