@@ -33,6 +33,7 @@
   * [Модул Плащания](otdeli/tech-team/modul-plashaniya.md)
   * [Модул Identity](otdeli/tech-team/modul-identity.md)
   * [Модул Контакти](otdeli/tech-team/modul-kontakti.md)
+  * [База данни](otdeli/tech-team/baza-danni.md)
 * [Право](otdeli/legal-team.md)
 * [Финанси и счетоводство](otdeli/finance-team/README.md)
   * [Ръководство за финансов контрол](otdeli/finance-team/rakovodstvo-za-finansov-kontrol.md)
