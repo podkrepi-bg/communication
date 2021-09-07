@@ -4,12 +4,12 @@
 
 За момента имаме следните модули:
 
-* Кампании
-* Плащания
-* Контакти
-* Identity
-* GraphQL Gateway
-* Front-end
+* [Front-end](../otdeli/tech-team/frontend.md)
+* [GraphQL Gateway](../otdeli/tech-team/graphql-gateway.md)
+* [Модул Кампании](../otdeli/tech-team/modul-kampanii.md)
+* [Модул Плащания](../otdeli/tech-team/modul-plashaniya.md)
+* [Модул Identity](../otdeli/tech-team/modul-identity.md)
+* [Модул Контакти](../otdeli/tech-team/modul-kontakti.md)
 
 На графиката отдолу е показана комуникацията между отделните модули. Както се вижда GraphQL Gateway прави изключение от правилото за липса на директна комуникация между модулите. Това е така, защото този модул обединява интерфейсите на всички останали модули в един GraphQL интерфейс, който се използва от нашия front-end.
 

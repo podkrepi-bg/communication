@@ -27,8 +27,12 @@
 ## Отдели
 
 * [Технически](otdeli/tech-team/README.md)
-  * [Фронтенд](otdeli/tech-team/frontend.md)
-  * [Бекенд](otdeli/tech-team/bekend.md)
+  * [Front-end](otdeli/tech-team/frontend.md)
+  * [GraphQL Gateway](otdeli/tech-team/graphql-gateway.md)
+  * [Модул Кампании](otdeli/tech-team/modul-kampanii.md)
+  * [Модул Плащания](otdeli/tech-team/modul-plashaniya.md)
+  * [Модул Identity](otdeli/tech-team/modul-identity.md)
+  * [Модул Контакти](otdeli/tech-team/modul-kontakti.md)
 * [Право](otdeli/legal-team.md)
 * [Финанси и счетоводство](otdeli/finance-team/README.md)
   * [Ръководство за финансов контрол](otdeli/finance-team/rakovodstvo-za-finansov-kontrol.md)
