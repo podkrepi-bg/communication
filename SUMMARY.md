@@ -21,7 +21,7 @@
 ## Архитектура
 
 * [Обща структура](arkhitektura/architecture.md)
-* [Функционален Домейн](arkhitektura/funkcionalen-domein.md)
+* [Функционален домейн](arkhitektura/funkcionalen-domein.md)
 * [Инструменти](arkhitektura/tools.md)
 * [API](arkhitektura/api.md)
 
