@@ -6,9 +6,10 @@
 
 Модулът отговаря за обединяването на интерфейсите на всички останали модули в един общ GraphQL интерфейс, който се използва от нашия [front-end](frontend.md). Технологиите, които се използват в този модул са:
 
-* Go
-* GraphQL
-* gRPC
+* [Go](https://golang.org/)
+* [GraphQL](https://graphql.org/)
+* [gRPC](https://grpc.io/)
+* [gqlgen](https://gqlgen.com/)
 
 ### Аутентикация и ауторизация
 
