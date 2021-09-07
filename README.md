@@ -20,7 +20,7 @@ description: >-
 
 {% page-ref page="communication/communication-channels.md" %}
 
-{% page-ref page="arkhitektura/architecture.md" %}
+{% page-ref page="architecture/architecture.md" %}
 
 
 

@@ -18,12 +18,12 @@
 * [Хакатон А](events/hackaton-a.md)
 * [Хакатон Б](events/hackaton-b.md)
 
-## Архитектура
+## Архитектура <a id="architecture"></a>
 
-* [Обща структура](arkhitektura/architecture.md)
-* [Функционален домейн](arkhitektura/funkcionalen-domein.md)
-* [Инструменти](arkhitektura/tools.md)
-* [API](arkhitektura/api.md)
+* [Обща структура](architecture/architecture.md)
+* [Функционален домейн](architecture/functional-domain.md)
+* [Инструменти](architecture/tools.md)
+* [API](architecture/api.md)
 
 ## Отдели
 
