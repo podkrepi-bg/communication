@@ -196,7 +196,38 @@
 
 За по-бързо включване в проекта на доброволци е подходящо цялата система да може да бъде стартирана в локална среда, без връзка към външни компоненти. Това дава **повече сигурност** на неуверените доброволци, **че** **няма да "счупят нещо"**. При архитектурно решение с множество микросървиси на различни технологии **изискванията за локалната среда се повишават** значително. Разбира се не изключваме варианта **за работа "на парче"**, но така цялостната интеграция на компонентите **би изисквала повече време**.
 
-### Решението
+## Решението
+
+### Да се използва общ език
+
+Технологията, с която най-много хора от основния екип имат опит е **TypeScript**. След дискусии се стигна до заключението, че ако се спрем на един език ще имаме най-бърз прогрес по проекта, най-много код ще се преизползва и най-ефективно ще продължим напред.
+
+От възможните работни рамки базирани на TypeScript, най-подходяща се оказа [**NestJS**](https://nestjs.com/)\*\*\*\*
+
+Бяха взети предвид следните съображения:
+
+* общност на проекта \([https://github.com/nestjs/nest](https://github.com/nestjs/nest) 40k ⭐\)
+* документация
+* примерни проекти
+* транспортни слоеве
+  * [REST](https://docs.nestjs.com/controllers)
+  * [GraphQL](https://docs.nestjs.com/graphql/quick-start)
+  * [Websocket](https://docs.nestjs.com/websockets/gateways)
+* включени стандартни компоненти
+  * [модулярност](https://docs.nestjs.com/modules)
+  * сигурност
+    * [валидация](https://docs.nestjs.com/techniques/validation)
+    * [аутентикация](https://docs.nestjs.com/security/authentication)
+    * [оторизация](https://docs.nestjs.com/security/authorization)
+    * [rate limiting](https://docs.nestjs.com/security/rate-limiting)
+  * [кеширане](https://docs.nestjs.com/techniques/caching)
+  * [автоматични тестове](https://docs.nestjs.com/fundamentals/testing)
+  * oбработка на грешки
+* външни интеграции, които можем да използваме
+  * [Prisma](https://docs.nestjs.com/recipes/prisma)
+  * [Swagger](https://docs.nestjs.com/openapi/introduction)
+  * [Keycloak](https://github.com/ferrerojosh/nest-keycloak-connect)
+  * [Stripe](https://github.com/golevelup/nestjs/tree/master/packages/stripe)
 
 
 
