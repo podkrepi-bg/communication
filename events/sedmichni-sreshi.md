@@ -18,9 +18,7 @@
 
 [Включи се тук](https://docs.podkrepi.bg/general/komunikaciya/vprosi#kak-da-se-vklyucha-v-organizaciyata)
 
-## Среща информационен сайт
 
-## Среща дизайн екип
 
 
 
