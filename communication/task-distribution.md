@@ -1,6 +1,6 @@
 # Вземане на задача
 
-#### Задачите на проекта се управляват в [github issues](https://github.com/podkrepi-bg/frontend/issues) и в [ora.pm](https://app.ora.pm/p/b4b29751703145d29a224c9e4653f0d5?v=0&t=k)
+#### Задачите на проекта се управляват в [github issues](https://github.com/podkrepi-bg/frontend/issues) и в [ora.pm](https://app.ora.pm/p/b4b29751703145d29a224c9e4653f0d5?v=0\&t=k)
 
 Предварителни очаквания:
 
@@ -23,5 +23,4 @@
 6. Ако има допълнителна обратна връзка се адресира или се разширява скоупа като нова задача
 7. Всички завършени документи ги запазваме в github или google drive-a на организацията в зависимост от задачата
 
-#### 
-
+####

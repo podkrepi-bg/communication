@@ -13,7 +13,7 @@
 
 На графиката отдолу е показана комуникацията между отделните модули. Както се вижда GraphQL Gateway прави изключение от правилото за липса на директна комуникация между модулите. Това е така, защото този модул обединява интерфейсите на всички останали модули в един GraphQL интерфейс, който се използва от нашия front-end.
 
-![](../.gitbook/assets/technical-landscape-module-communication%20%282%29.jpg)
+![](<../.gitbook/assets/Technical landscape - Module Communication (2).jpg>)
 
 Към този момент конкретната имплементация на event handler-a е неуточнена. Идеята му е да пази историята на всички действия, които са се случили в платформата. Това ще допринесе за прозрачността, а и ще предостави възможност за обмяна на данни между модулите без директни зависимости между тях. 
 
@@ -21,7 +21,6 @@
 
 Тук може да видите 2 примерни заявки идващи от front-enda и как те се обработват от отделните модули преди да се върне отговор към потребителя. 
 
-![Create campaign sequence diagram](../.gitbook/assets/technical-landscape-create-campaign.jpg)
+![Create campaign sequence diagram](<../.gitbook/assets/Technical landscape - Create campaign.jpg>)
 
-![Donate to campaign sequence diagram](../.gitbook/assets/technical-landscape-donate-to-campaign.jpg)
-
+![Donate to campaign sequence diagram](<../.gitbook/assets/Technical landscape - Donate to campaign.jpg>)
