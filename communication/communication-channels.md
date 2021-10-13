@@ -2,7 +2,7 @@
 
 * [Github](https://github.com/daritelska-platforma)
 *
-  * Архитектура
+  * "Архитектура" на структурата
     * [Frontend](https://github.com/podkrepi-bg/frontend)
       * [Contributor guidelines](https://github.com/daritelska-platforma/frontend/blob/master/CONTRIBUTING.md#contributing)
   * [Комуникация](https://github.com/daritelska-platforma/communication)
