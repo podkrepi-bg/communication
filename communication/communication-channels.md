@@ -1,18 +1,13 @@
 # Канали на комуникация
 
 * [Github](https://github.com/daritelska-platforma)
-*
-  * "Архитектура" на структурата
-    * [Frontend](https://github.com/podkrepi-bg/frontend)
-      * [Contributor guidelines](https://github.com/daritelska-platforma/frontend/blob/master/CONTRIBUTING.md#contributing)
-  * [Комуникация](https://github.com/daritelska-platforma/communication)
 * [Google Drive](https://drive.google.com/drive/u/1/folders/1RqIpL7kDopka5NJ_DbU00ta4m4Dccllo)
-  * [Архитектура](https://drive.google.com/drive/u/1/folders/1RqIpL7kDopka5NJ_DbU00ta4m4Dccllo)
-    * [Frontend](https://drive.google.com/drive/u/1/folders/1nsbGpe73JEpfASbcvcE-DZwUmpABn3SM)
+  * [Архитектура](https://drive.google.com/drive/u/1/folders/1RqIpL7kDopka5NJ_DbU00ta4m4Dccllo) <mark style="color:blue;">на структурата</mark>
+    * [Frontend](https://drive.google.com/drive/u/1/folders/1nsbGpe73JEpfASbcvcE-DZwUmpABn3SM)  <mark style="color:blue;">("лице" - това, което вижда потребителят)</mark>
       * [Информационен сайт](https://drive.google.com/drive/u/1/folders/1X9XJssX4eZHBI0pXGSBIY_EfrKYwKq07)
-      * [SEO](https://drive.google.com/drive/u/1/folders/1EQSje24mtADAGR6ADfc7C_JP2XwiQWPW)
-    * [Backend](https://drive.google.com/drive/u/1/folders/1Q0kWz9lSKwOj1WutOwxuI\_7hJsFOYkM-)
-    * [DevOps](https://drive.google.com/drive/u/1/folders/1PKtfEIz2724rYc5tAHabGubyN_mVL50H)
+      * [SEO](https://drive.google.com/drive/u/1/folders/1EQSje24mtADAGR6ADfc7C_JP2XwiQWPW) <mark style="color:blue;">(оптимизация за видимост на Платформата в Интернет)</mark>
+    * [Backend](https://drive.google.com/drive/u/1/folders/1Q0kWz9lSKwOj1WutOwxuI\_7hJsFOYkM-) <mark style="color:blue;">(техническо управление на сайта)</mark>
+    * [DevOps](https://drive.google.com/drive/u/1/folders/1PKtfEIz2724rYc5tAHabGubyN_mVL50H) <mark style="color:blue;">(разработчици)</mark>
     * [Модул кампании](https://drive.google.com/drive/u/1/folders/1Z-3pkK_NoeLOMqroIOOAAsmWg2PVEQxc)
     * [Модул разплащания](https://drive.google.com/drive/folders/1mCxrqPKqxV8nQkhJxli9JbGNGd9X9Uak)
       * [Разплащателни системи](https://docs.google.com/document/d/1U19kH4Iu-MgcT6ZuplgiCgGVAK9tPIKoMz00A97Tw2c/edit?usp=sharing)
@@ -26,5 +21,5 @@
   * [Право](https://drive.google.com/drive/u/1/folders/12NB3RfKI4bnN87lMJYoZ3VM0gYwkaQnW)
   * [Медици и НПО](https://drive.google.com/drive/u/1/folders/1kd2RVB5iIIH3EB2BUIVexvgBaIbXaKIs)
   * [Маркетинг](https://drive.google.com/drive/u/1/folders/1T_HhmYXA0et_tlM66ipLPcoPhKLZKJiN)
-    * [SEO](https://drive.google.com/drive/u/1/folders/1EQSje24mtADAGR6ADfc7C_JP2XwiQWPW)
+    * [SEO](https://drive.google.com/drive/u/1/folders/1EQSje24mtADAGR6ADfc7C_JP2XwiQWPW) <mark style="color:blue;">(оптимизация за видимост на Платформата в Интернет)</mark>
 
