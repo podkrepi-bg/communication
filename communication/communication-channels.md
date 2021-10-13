@@ -1,6 +1,6 @@
 # Канали на комуникация
 
-* [Github](https://github.com/daritelska-platforma)
+* [Github](https://github.com/podkrepi-bg)
 * [Google Drive](https://drive.google.com/drive/u/1/folders/1RqIpL7kDopka5NJ_DbU00ta4m4Dccllo)
   * [Архитектура](https://drive.google.com/drive/u/1/folders/1RqIpL7kDopka5NJ_DbU00ta4m4Dccllo) <mark style="color:blue;">на структурата</mark>
     * [Frontend](https://drive.google.com/drive/u/1/folders/1nsbGpe73JEpfASbcvcE-DZwUmpABn3SM)  <mark style="color:blue;">("лице" - това, което вижда потребителят)</mark>
