@@ -1,7 +1,7 @@
 # Канали на комуникация
 
 * [Github](https://github.com/podkrepi-bg)
-* [Google Drive](https://drive.google.com/drive/u/1/folders/1RqIpL7kDopka5NJ_DbU00ta4m4Dccllo)
+* [Google <mark style="color:blue;">Диск</mark>](https://drive.google.com/drive/u/0/folders/1RqIpL7kDopka5NJ_DbU00ta4m4Dccllo)<mark style="color:blue;"></mark>
   * [Архитектура](https://drive.google.com/drive/u/1/folders/1RqIpL7kDopka5NJ_DbU00ta4m4Dccllo) <mark style="color:blue;">на структурата</mark>
     * [Frontend](https://drive.google.com/drive/u/1/folders/1nsbGpe73JEpfASbcvcE-DZwUmpABn3SM)  <mark style="color:blue;">("лице" - това, което вижда потребителят)</mark>
       * [Информационен сайт](https://drive.google.com/drive/u/1/folders/1X9XJssX4eZHBI0pXGSBIY_EfrKYwKq07)
