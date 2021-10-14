@@ -4,21 +4,21 @@
 * [Манифест](manifesto.md)
 * [Полезни връзки](useful-links.md)
 
-## Комуникация <a id="communication"></a>
+## Комуникация <a href="communication" id="communication"></a>
 
 * [Канали на комуникация](communication/communication-channels.md)
 * [Вземане на решения](communication/decision-making.md)
-* [Вземане на задача](communication/task-distribution.md)
+* [Взимане на задача](communication/task-distribution.md)
 * [Въпроси](communication/faq.md)
 * [Речник](communication/glossary.md)
 
-## Събития <a id="events"></a>
+## Събития <a href="events" id="events"></a>
 
 * [Седмични срещи](events/sedmichni-sreshi.md)
 * [Хакатон А](events/hackaton-a.md)
 * [Хакатон Б](events/hackaton-b.md)
 
-## Архитектура <a id="architecture"></a>
+## Архитектура <a href="architecture" id="architecture"></a>
 
 * [Обща структура](architecture/architecture.md)
 * [Функционален домейн](architecture/functional-domain.md)
@@ -42,4 +42,3 @@
 * [Маркетинг](otdeli/marketing-team.md)
 * [Медици и НПО](otdeli/medic-team.md)
 * [Продуктов мениджмънт](otdeli/product-management-team.md)
-
