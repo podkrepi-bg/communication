@@ -1,4 +1,4 @@
 # Front-end
 
-## [Документация](https://docs.podkrepi.bg/frontend)
+## [Документация](https://docs.podkrepi.bg/development/)
 
