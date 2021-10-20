@@ -1,7 +1,7 @@
 # GraphQL Gateway
 
-{% hint style="info" %}
-Кодът за модула и задачите към него могат да бъдат открити [тук](https://github.com/podkrepi-bg/graphql-gateway)
+{% hint style="danger" %}
+Информацията в тази секция вече не е актуална и е запазена с цел проследяване на хронологията!
 {% endhint %}
 
 Модулът отговаря за обединяването на интерфейсите на всички останали модули в един общ GraphQL интерфейс, който се използва от нашия [front-end](frontend.md). Технологиите, които се използват в този модул са:
@@ -10,6 +10,8 @@
 * [GraphQL](https://graphql.org)
 * [gRPC](https://grpc.io)
 * [gqlgen](https://gqlgen.com)
+
+![](<../../.gitbook/assets/Technical landscape - Module Communication (BG).jpg>)
 
 ### Автентификация и авторизация
 

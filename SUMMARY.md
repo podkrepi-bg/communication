@@ -29,12 +29,12 @@
 
 * [Технически](otdeli/tech-team/README.md)
   * [Front-end](otdeli/tech-team/frontend.md)
-  * [GraphQL Gateway](otdeli/tech-team/graphql-gateway.md)
   * [Модул Кампании](otdeli/tech-team/module-campaigns.md)
   * [Модул Плащания](otdeli/tech-team/module-payments.md)
   * [Модул Identity](otdeli/tech-team/module-identity.md)
   * [Модул Контакти](otdeli/tech-team/module-contact.md)
   * [База данни](otdeli/tech-team/database.md)
+  * [GraphQL Gateway](otdeli/tech-team/graphql-gateway.md)
 * [Право](otdeli/legal-team.md)
 * [Финанси и счетоводство](otdeli/finance-team/README.md)
   * [Ръководство за финансов контрол](otdeli/finance-team/rakovodstvo-za-finansov-kontrol.md)
