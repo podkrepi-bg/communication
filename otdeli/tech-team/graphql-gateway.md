@@ -11,7 +11,7 @@
 * [gRPC](https://grpc.io)
 * [gqlgen](https://gqlgen.com)
 
-![](<../../.gitbook/assets/Technical landscape - Module Communication (BG).jpg>)
+![](../../.gitbook/assets/technical-landscape-module-communication-bg-.jpg)
 
 ### Автентификация и авторизация
 
