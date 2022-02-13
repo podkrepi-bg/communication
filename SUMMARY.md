@@ -4,7 +4,7 @@
 * [Манифест](manifesto.md)
 * [Полезни връзки](useful-links.md)
 
-## Комуникация <a href="communication" id="communication"></a>
+## Комуникация <a href="#communication" id="communication"></a>
 
 * [Канали на комуникация](communication/communication-channels.md)
 * [Вземане на решения](communication/decision-making.md)
@@ -12,17 +12,17 @@
 * [Въпроси](communication/faq.md)
 * [Речник](communication/glossary.md)
 
-## Събития <a href="events" id="events"></a>
+## Събития <a href="#events" id="events"></a>
 
 * [Седмични срещи](events/sedmichni-sreshi.md)
 * [Хакатон А](events/hackaton-a.md)
 * [Хакатон Б](events/hackaton-b.md)
 
-## Архитектура <a href="architecture" id="architecture"></a>
+## Архитектура <a href="#architecture" id="architecture"></a>
 
-* [Обща структура](architecture/architecture.md)
 * [Функционален домейн](architecture/functional-domain.md)
 * [Технически изисквания](architecture/api.md)
+* [Архитектурна диаграма](architecture/architecture.md)
 * [Инструменти](architecture/tools.md)
 
 ## Отдели
