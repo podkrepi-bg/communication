@@ -2,28 +2,27 @@
 
 * [Начало](README.md)
 * [Манифест](manifesto.md)
-* [Полезни връзки](useful-links.md)
+* [Чести Въпроси](faq.md)
 
 ## Комуникация <a href="#communication" id="communication"></a>
 
-* [Канали на комуникация](communication/communication-channels.md)
 * [Вземане на решения](communication/decision-making.md)
-* [Взимане на задача](communication/task-distribution.md)
-* [Въпроси](communication/faq.md)
-* [Речник](communication/glossary.md)
+* [Документни папки](communication/communication-channels.md)
+* [Полезни връзки](communication/useful-links.md)
+
+## Разработка <a href="#architecture" id="architecture"></a>
+
+* [Взимане на задача](architecture/task-distribution.md)
+* [Основни понятия](architecture/glossary.md)
+* [Функционален домейн](architecture/functional-domain.md)
+* [Технически изисквания](architecture/api.md)
+* [Архитектурна диаграма](architecture/architecture.md)
 
 ## Събития <a href="#events" id="events"></a>
 
 * [Седмични срещи](events/sedmichni-sreshi.md)
 * [Хакатон А](events/hackaton-a.md)
 * [Хакатон Б](events/hackaton-b.md)
-
-## Архитектура <a href="#architecture" id="architecture"></a>
-
-* [Функционален домейн](architecture/functional-domain.md)
-* [Технически изисквания](architecture/api.md)
-* [Архитектурна диаграма](architecture/architecture.md)
-* [Инструменти](architecture/tools.md)
 
 ## Отдели
 
