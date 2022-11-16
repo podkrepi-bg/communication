@@ -14,7 +14,7 @@ description: >-
 
 За промени в текстовете трябва да поискаш покана от екипа на Подкрепи.бг в [Discord](faq.md#kak-da-se-vklyucha-v-discord). Ако вече имаш профил, можеш да правиш промени на следната страница: [https://app.gitbook.com/@podkrepi-bg/s/general/](https://app.gitbook.com/@podkrepi-bg/s/general/)
 
-Публичният достъп до документацията се намира на адрес: [https://docs.podkrepi.bg/](https://docs.podkrepi.bg)
+Публичният достъп до документацията се намира на адрес: [https://docs.podkrepi.bg/](https://docs.podkrepi.bg/)
 
 {% content-ref url="manifesto.md" %}
 [manifesto.md](manifesto.md)

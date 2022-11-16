@@ -21,19 +21,14 @@
 ## Събития <a href="#events" id="events"></a>
 
 * [Седмични срещи](events/sedmichni-sreshi.md)
-* [Хакатон А](events/hackaton-a.md)
-* [Хакатон Б](events/hackaton-b.md)
 
 ## Отдели
 
 * [Технически](otdeli/tech-team/README.md)
-  * [Front-end](otdeli/tech-team/frontend.md)
-  * [Модул Кампании](otdeli/tech-team/module-campaigns.md)
-  * [Модул Плащания](otdeli/tech-team/module-payments.md)
-  * [Модул Identity](otdeli/tech-team/module-identity.md)
-  * [Модул Контакти](otdeli/tech-team/module-contact.md)
+  * [frontend](otdeli/tech-team/frontend.md)
+  * [api](otdeli/tech-team/api.md)
   * [База данни](otdeli/tech-team/database.md)
-  * [GraphQL Gateway](otdeli/tech-team/graphql-gateway.md)
+  * [Инфраструктура](otdeli/tech-team/infrastruktura.md)
 * [Право](otdeli/legal-team/README.md)
   * [Документи За Нова Кампания](otdeli/legal-team/dokumenti-za-nova-kampaniya.md)
 * [Финанси и счетоводство](otdeli/finance-team/README.md)
